@@ -1,8 +1,7 @@
 # sonic-project-gosonic
 fork of cheernoz's [GoSonic2D-Ultimate](https://github.com/cheernoz/GoSonic2D-Ultimate) framework
 
-creating a sonic fangame using the gs2du framework, and remastering some of the code that goes with it, while also adding on new parts
-this is mostly for fun, but also to strengthen my skills, and maybe learn from the engine
+creating a sonic fangame using the gs2du framework, and remastering some of the code that goes with it, while also adding on new partsthis is mostly for fun, but also to strengthen my skills, and maybe learn from the engine
 
 ## things added:
 
